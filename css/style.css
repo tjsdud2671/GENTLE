@@ -839,6 +839,10 @@ header {
     padding: 10px;
   }
   .footer-wrapper {
+    padding: 0;
+  }
+
+  .footer-section {
     display: none;
   }
   .footer-copyright {
@@ -847,8 +851,11 @@ header {
   }
   .accordion {
     display: block;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
+    width: 100%;
+    z-index: -1;
   }
+
   .accordion-button {
     padding: 15px;
   }
