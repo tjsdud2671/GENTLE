@@ -33,6 +33,10 @@
 
 
 ### 배너 슬라이드 효과
+![bandicam2024-08-3103-07-15-677-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c9d902df-9fa8-4ffe-bb3d-93a2ac2427b6)
+
+
+
 ![slider 1](https://github.com/user-attachments/assets/a2d9cada-4ebf-47ad-a5e0-e54fcbece4ec)
 
 * 헤더 상단 배너에 slider animation을 적용하였습니다.
