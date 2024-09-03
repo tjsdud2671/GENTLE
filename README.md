@@ -24,10 +24,13 @@
 ![반응형 footer](https://github.com/user-attachments/assets/876df482-f41b-4a19-ae34-d8f1c354faed)
 
 
+
+
+
 ### 배너 슬라이드 효과
 ![slider 1](https://github.com/user-attachments/assets/a2d9cada-4ebf-47ad-a5e0-e54fcbece4ec)
 
-* 헤더 상단 배너에 slider animation 적용
+* 헤더 상단 배너에 slider animation을 적용하였습니다.
 
 
 ![slider 2](https://github.com/user-attachments/assets/471de185-cb46-4df5-ba84-5f0e4c916f65)
@@ -48,7 +51,7 @@
 
   step-end : 슬라이드가 지나가는 과정이 나타나지 않도록<br/>
   100% 가 되자마자 0% 로 바로 실행하며<br>
-  93% 가 될 때까지 계속 33% 의 상태로 유지하란 뜻
+  93% 가 될 때까지 계속 33% 의 상태로 유지
 
 * 60% 동안 오른쪽 끝으로 옮김
 
