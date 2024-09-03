@@ -66,6 +66,9 @@
 
 * 7% 동안 슬라이드 안에 꽉 차게 옮김
 
+<br/>
+<br/>
 
+링크 : https://rawcdn.githack.com/tjsdud2671/GENTLE/2d74ac6c0438952638fc8818e90d414aa57592ab/index.html
 
   
