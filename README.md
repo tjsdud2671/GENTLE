@@ -20,7 +20,7 @@
 ![반응형 search](https://github.com/user-attachments/assets/bfa5aec3-cb78-4c1d-8f71-c264dfb717ba)
 
 
-### footer 반응형형
+### footer 반응형
 ![반응형 footer](https://github.com/user-attachments/assets/876df482-f41b-4a19-ae34-d8f1c354faed)
 
 
