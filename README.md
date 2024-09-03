@@ -12,19 +12,21 @@
   구조 변경에 중점을 둔 클론코딩 작업입니다.
 
 
-### nav
+### nav 반응형
 ![반응형 nav](https://github.com/user-attachments/assets/58eeb3ed-a00e-42f0-9a67-c8c52b87c1c0)
 
 
-### search
+### search 반응형
 ![반응형 search](https://github.com/user-attachments/assets/bfa5aec3-cb78-4c1d-8f71-c264dfb717ba)
 
 
-### footer
+### footer 반응형형
 ![반응형 footer](https://github.com/user-attachments/assets/876df482-f41b-4a19-ae34-d8f1c354faed)
 
 
-
+<br/>
+<br/>
+<br/>
 
 
 ### 배너 슬라이드 효과
