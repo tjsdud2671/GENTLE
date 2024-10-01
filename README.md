@@ -72,8 +72,14 @@ transform: translateX() 속성을 사용하여 X축을 기준으로 배너를 �
 
 
 ### 메뉴바 슬라이드 
+![bandicam2024-10-0201-59-43-853-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/21201235-819c-498e-999a-2d47cabd7102)<br/>
+![modal](https://github.com/user-attachments/assets/b21f46ba-2eb5-40dd-9843-f88eb0c00547)<br/>
 
-
++ animation: slide 0.5s ease-in-out forwards;
+  slide라는 이름의 애니메이션 적용<br/>
+  ease-in-out을 사용하여 시작과 끝부분에서 애니메이션 속도가 변경되게 하였고, forwards를 사용해서 애니메이션이 끝난 후 마지막 상태를 계속 유지하도록 함
+<br/>
+<br/>
 
 링크 : https://rawcdn.githack.com/tjsdud2671/GENTLE/2d74ac6c0438952638fc8818e90d414aa57592ab/index.html
 
