@@ -65,9 +65,15 @@ transform: translateX() 속성을 사용하여 X축을 기준으로 배너를 �
 * 60% 동안 오른쪽 끝으로 옮김
 
 * 7% 동안 슬라이드 안에 꽉 차게 옮김
+  
 
 <br/>
 <br/>
+
+
+### 메뉴바 슬라이드 
+
+
 
 링크 : https://rawcdn.githack.com/tjsdud2671/GENTLE/2d74ac6c0438952638fc8818e90d414aa57592ab/index.html
 
