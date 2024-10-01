@@ -53,7 +53,7 @@
 
 ![slider 3](https://github.com/user-attachments/assets/64d2874c-3874-492f-bd19-aeacced3627a)
 
-
+transform: translateX() 속성을 사용하여 X축을 기준으로 배너를 이동시킵니다.<br/>
 * 전체의 26% 까지 슬라이드 안에 꽉 채워서 (0%) 움직이지 않음
 
 * 7% 동안 왼쪽 끝으로 옮김
